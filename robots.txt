@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manishchaurasiya.com.np/al-folio/sitemap.xml
+Sitemap: https://manishchaurasiya.com.np/sitemap.xml
